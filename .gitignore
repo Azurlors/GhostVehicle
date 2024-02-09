@@ -5,15 +5,3 @@ Ref-2_Ghost_Vehicle_But_CAM.pdf
 Ref-3_CPM_standard.pdf
 Sujet_PTA_Ghost_vehicle_detection.pdf
 trafficSimulator/.gitignore
-trafficSimulator/CONTRIBUTING.md
-trafficSimulator/MANIFEST.in
-trafficSimulator/pyproject.toml
-trafficSimulator/README.md
-trafficSimulator/tox.ini
-trafficSimulator/.github/FUNDING.yml
-trafficSimulator/.github/workflows/python-publish.yml
-trafficSimulator/tests/__init__.py
-trafficSimulator/tests/simpletest.py
-trafficSimulator/images/screenshot-1.png
-trafficSimulator/.github/workflows/test.yml
-trafficSimulator/.github/workflows/release.yml
