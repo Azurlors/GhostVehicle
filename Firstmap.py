@@ -7,9 +7,9 @@ sim = Simulation()
 
 
 # Intersection in
-sim.create_segment((0,2.5),(50,2.5))
+sim.create_segment((-20,2.5),(50,2.5))
 # Intersection out
-sim.create_segment((50,-2.5),(0,-2.5))
+sim.create_segment((50,-2.5),(-20,-2.5))
 
 # Straight
 sim.create_segment((50,2.5),(60,2.5))
