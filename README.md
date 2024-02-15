@@ -12,7 +12,7 @@ Pour installer le simulateur, suivez ces étapes :
    ```
 2. Installer le module `trafficsimulator` en exécutant la commande :
    ```
-   pip install GhostVehicle/trafficsimulator
+   pip install GhostVehicle/trafficSimulator
    ```
 
 Je suis reconnaissant envers Bilal Himite pour la base sur laquelle ce projet est construit, disponible à l'adresse : [github.com/BilHim/trafficSimulator](https://github.com/BilHim/trafficSimulator).
